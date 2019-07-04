@@ -1,0 +1,446 @@
+paper_identification,topic,context,replication_type,replication_result,same_author,methodology
+"@inproceedings{elliott2012toward,
+  title={Toward a validated computing attitudes survey},
+  author={Elliott Tew, Allison and Dorn, Brian and Schneider, Oliver},
+  booktitle={Proceedings of the ninth annual international conference on International computing education research},
+  pages={135--142},
+  year={2012},
+  organization={ACM}
+}",Assessment,CS1,conceptual,success,no,quantitative
+"@inproceedings{mccartney2013can,
+  title={Can first--year students program yet?: a study revisited},
+  author={McCartney, Robert and Boustedt, Jonas and Eckerdal, Anna and Sanders, Kate and Zander, Carol},
+  booktitle={ICER'13 International Computing Education Research Conference, August 12-14, 2013, La Jolla, CA, USA},
+  pages={91--98},
+  year={2013},
+  organization={Association for Computing Machinery (ACM)}
+}",Aptitute,CS1,conceptual,mix,no,quantitative
+"@inproceedings{lewis2013mining,
+  title={Mining data from the AP CS a exam: patterns, non-patterns, and replication failure},
+  author={Lewis, Colleen M and Khayrallah, Huda and Tsai, Amy},
+  booktitle={Proceedings of the ninth annual international ACM conference on International computing education research},
+  pages={115--122},
+  year={2013},
+  organization={ACM}
+}",Aptitute,K-12,direct,failure,no,quantitative
+"@inproceedings{patitsas2013comparing,
+  title={Comparing and contrasting different algorithms leads to increased student learning},
+  author={Patitsas, Elizabeth and Craig, Michelle and Easterbrook, Steve},
+  booktitle={Proceedings of the ninth annual international ACM conference on International computing education research},
+  pages={145--152},
+  year={2013},
+  organization={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,success,no,quantitative
+"@inproceedings{morrison2014measuring,
+  title={Measuring cognitive load in introductory CS: adaptation of an instrument},
+  author={Morrison, Briana B and Dorn, Brian and Guzdial, Mark},
+  booktitle={Proceedings of the tenth annual conference on International computing education research},
+  pages={131--138},
+  year={2014},
+  organization={ACM}
+}",Assessment,CS1,conceptual,success,no,quantitative
+"@inproceedings{jadud2015aggregate,
+  title={Aggregate compilation behavior: Findings and implications from 27,698 users},
+  author={Jadud, Matthew C and Dorn, Brian},
+  booktitle={Proceedings of the eleventh annual International Conference on International Computing Education Research},
+  pages={131--139},
+  year={2015},
+  organization={ACM}
+}","Tool, Learning Behavior",Undergraduate,conceptual,mix,yes,quantitative
+"@inproceedings{carter2015normalized,
+  title={The normalized programming state model: Predicting student performance in computing courses based on programming behavior},
+  author={Carter, Adam S and Hundhausen, Christopher D and Adesope, Olusola},
+  booktitle={Proceedings of the eleventh annual International Conference on International Computing Education Research},
+  pages={141--150},
+  year={2015},
+  organization={ACM}
+}","Learning Behavior, Performance Prediction",Undergraduate,conceptual,mix,no,quantitative
+"@inproceedings{cooper2015spatial,
+  title={Spatial skills training in introductory computing},
+  author={Cooper, Stephen and Wang, Karen and Israni, Maya and Sorby, Sheryl},
+  booktitle={Proceedings of the Eleventh Annual International Conference on International Computing Education Research},
+  pages={13--20},
+  year={2015},
+  organization={ACM}
+}",Learning & Teaching Strategies,K-12,conceptual,success,no,quantitative
+"@inproceedings{morrison2015subgoals,
+  title={Subgoals, context, and worked examples in learning computing problem solving},
+  author={Morrison, Briana B and Margulieux, Lauren E and Guzdial, Mark},
+  booktitle={Proceedings of the eleventh annual international conference on international computing education research},
+  pages={21--29},
+  year={2015},
+  organization={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,mix,no,quantitative
+"@inproceedings{hewner2016everyone,
+  title={When Everyone Knows CS is the Best Major: Decisions about CS in an Indian context},
+  author={Hewner, Michael and Mishra, Shitanshu},
+  booktitle={Proceedings of the 2016 ACM Conference on International Computing Education Research},
+  pages={3--11},
+  year={2016},
+  organization={ACM}
+}",Experience,Undergraduate,direct,mix,yes,qualitative
+"@inproceedings{parker2016replication,
+  title={Replication, validation, and use of a language independent CS1 knowledge assessment},
+  author={Parker, Miranda C and Guzdial, Mark and Engleman, Shelly},
+  booktitle={Proceedings of the 2016 ACM conference on international computing education research},
+  pages={93--101},
+  year={2016},
+  organization={ACM}
+}",Assessment,CS1,direct,success,yes,mixed
+"@inproceedings{morrison2016learning,
+  title={Learning loops: A replication study illuminates impact of HS courses},
+  author={Morrison, Briana B and Decker, Adrienne and Margulieux, Lauren E},
+  booktitle={Proceedings of the 2016 ACM Conference on International Computing Education Research},
+  pages={221--230},
+  year={2016},
+  organization={ACM}
+}",Learning & Teaching Strategies,CS1,direct,success,yes,quantitative
+"@inproceedings{cunningham2017using,
+  title={Using tracing and sketching to solve programming problems: replicating and extending an analysis of what students draw},
+  author={Cunningham, Kathryn and Blanchard, Sarah and Ericson, Barbara and Guzdial, Mark},
+  booktitle={Proceedings of the 2017 ACM Conference on International Computing Education Research},
+  pages={164--172},
+  year={2017},
+  organization={ACM}
+}",Learning & Teaching Strategies,CS1,conceptual,success,no,quantitative
+"@inproceedings{morrison2017dual,
+  title={Dual modality code explanations for novices: Unexpected results},
+  author={Morrison, Briana B},
+  booktitle={Proceedings of the 2017 ACM Conference on International Computing Education Research},
+  pages={226--235},
+  year={2017},
+  organization={ACM}
+}",Learning & Teaching Strategies,CS1,direct,failure,no,quantitative
+"@inproceedings{toma2018self,
+  title={Self-Efficacy, Cognitive Load, and Emotional Reactions in Collaborative Algorithms Labs-A Case Study},
+  author={Toma, Laura and Vahrenhold, Jan},
+  booktitle={Proceedings of the 2018 ACM Conference on International Computing Education Research},
+  pages={1--10},
+  year={2018},
+  organization={ACM}
+}","Learning & Teaching Strategies, Assessment, Learning Theory",Undergraduate,conceptual,success,yes,mixed
+"@inproceedings{marinus2018unravelling,
+  title={Unravelling the Cognition of Coding in 3-to-6-year Olds: The development of an assessment tool and the relation between coding ability and cognitive compiling of syntax in natural language},
+  author={Marinus, Eva and Powell, Zoe and Thornton, Rosalind and McArthur, Genevieve and Crain, Stephen},
+  booktitle={Proceedings of the 2018 ACM Conference on International Computing Education Research},
+  pages={133--141},
+  year={2018},
+  organization={ACM}
+}",Assessment,K-12,conceptual,success,no,quantitative
+"@inproceedings{denny2012all,
+  title={All syntax errors are not equal},
+  author={Denny, Paul and Luxton-Reilly, Andrew and Tempero, Ewan},
+  booktitle={Proceedings of the 17th ACM annual conference on Innovation and technology in computer science education},
+  pages={75--80},
+  year={2012},
+  organization={ACM}
+}",Assessment,Undergraduate,conceptual,success,yes,quantitative
+"@inproceedings{isomottonen2013issues,
+  title={Issues with a course that emphasizes self-direction},
+  author={Isom{\""o}tt{\""o}nen, Ville and Tirronen, Ville and Cochez, Michael},
+  booktitle={Proceedings of the 18th ACM conference on Innovation and technology in computer science education},
+  pages={111--116},
+  year={2013},
+  organization={ACM}
+}",Learning & Teaching Strategies,Graduate,conceptual,success,yes,qualitative
+"@inproceedings{spacco2013towards,
+  title={Towards improving programming habits to create better computer science course outcomes},
+  author={Spacco, Jaime and Fossati, Davide and Stamper, John and Rivers, Kelly},
+  booktitle={Proceedings of the 18th ACM conference on Innovation and technology in computer science education},
+  pages={243--248},
+  year={2013},
+  organization={ACM}
+}","Learning Behavior, Tool",Undergraduate,conceptual,success,no,quantitative
+"@inproceedings{watson2014failure,
+  title={Failure rates in introductory programming revisited},
+  author={Watson, Christopher and Li, Frederick WB},
+  booktitle={Proceedings of the 2014 conference on Innovation \& technology in computer science education},
+  pages={39--44},
+  year={2014},
+  organization={ACM}
+}",Retention,CS1,conceptual,success,no,quantitative
+"@inproceedings{thies2016back,
+  title={Back to school: computer science unplugged in the wild},
+  author={Thies, Renate and Vahrenhold, Jan},
+  booktitle={Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education},
+  pages={118--123},
+  year={2016},
+  organization={ACM}
+}",Learning & Teaching Strategies,K-12,conceptual,mix,no,mixed
+"@inproceedings{leinonen2016typing,
+  title={Typing patterns and authentication in practical programming exams},
+  author={Leinonen, Juho and Longi, Krista and Klami, Arto and Ahadi, Alireza and Vihavainen, Arto},
+  booktitle={Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education},
+  pages={160--165},
+  year={2016},
+  organization={ACM}
+}","Learning Behavior, Tool",Undergraduate,conceptual,success,yes,quantitative
+"@inproceedings{campbell2016factors,
+  title={Factors for success in online CS1},
+  author={Campbell, Jennifer and Horton, Diane and Craig, Michelle},
+  booktitle={Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education},
+  pages={320--325},
+  year={2016},
+  organization={ACM}
+}",Performance Prediction,CS1,conceptual,failure,no,quantitative
+"@inproceedings{quille2018programming,
+  title={Programming: predicting student success early in CS1. a re-validation and replication study},
+  author={Quille, Keith and Bergin, Susan},
+  booktitle={Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education},
+  pages={15--20},
+  year={2018},
+  organization={ACM}
+}",Performance Prediction,CS1,direct,success,no,quantitative
+"@inproceedings{liao2018classroom,
+  title={Classroom experience report on jigsaw learning},
+  author={Liao, Soohyun Nam and Griswold, William G and Porter, Leo},
+  booktitle={Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education},
+  pages={302--307},
+  year={2018},
+  organization={ACM}
+}",Experience,Undergraduate,conceptual,mix,no,mixed
+"@inproceedings{mccartney2018iticse,
+  title={ITiCSE working groups and collaboration in the computing education community},
+  author={McCartney, Robert and Sanders, Kate},
+  booktitle={Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education},
+  pages={332--337},
+  year={2018},
+  organization={ACM}
+}",community building,other,direct,success,no,quantitative
+"@inproceedings{radermacher2011investigating,
+  title={Investigating the effective implementation of pair programming: an empirical investigation},
+  author={Radermacher, Alex D and Walia, Gursimran S},
+  booktitle={Proceedings of the 42nd ACM technical symposium on Computer science education},
+  pages={655--660},
+  year={2011},
+  organization={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,success,yes,quantitative
+"@inproceedings{jamieson2012application,
+  title={Application of non-programming focused Treisman-style workshops in introductory computer science},
+  author={Jamieson, Alan C and Jamieson, Lindsay H and Johnson, Angela C},
+  booktitle={Proceedings of the 43rd ACM technical symposium on Computer Science Education},
+  pages={271--276},
+  year={2012},
+  organization={ACM}
+}",Learning & Teaching Strategies,CS1,conceptual,success,no,quantitative
+"@inproceedings{murphy2012explain,
+  title={'Explain in plain English'questions: implications for teaching},
+  author={Murphy, Laurie and McCauley, Ren{\'e}e and Fitzgerald, Sue},
+  booktitle={Proceedings of the 43rd ACM technical symposium on Computer Science Education},
+  pages={385--390},
+  year={2012},
+  organization={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,mix,no,mixed
+"@inproceedings{karpierz2014misconceptions,
+  title={Misconceptions and concept inventory questions for binary search trees and hash tables},
+  author={Karpierz, Kuba and Wolfman, Steven A},
+  booktitle={Proceedings of the 45th ACM technical symposium on Computer science education},
+  pages={109--114},
+  year={2014},
+  organization={ACM}
+}",Assessment,Undergraduate,conceptual,mix,no,qualitative
+"@inproceedings{brown2014blackbox,
+  title={Blackbox: a large scale repository of novice programmers' activity},
+  author={Brown, Neil Christopher Charles and K{\""o}lling, Michael and McCall, Davin and Utting, Ian},
+  booktitle={Proceedings of the 45th ACM technical symposium on Computer science education},
+  pages={223--228},
+  year={2014},
+  organization={ACM}
+}","Learning Behavior, Tool",Undergraduate,direct,success,no,quantitative
+"@article{zarb2014evaluating,
+  title={Evaluating industry-inspired pair programming communication guidelines with undergraduate students.},
+  author={Zarb, Mark and Hughes, Janet and Richards, John},
+  year={2014},
+  publisher={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,success,no,mixed
+"@inproceedings{denny2015generating,
+  title={Generating practice questions as a preparation strategy for introductory programming exams},
+  author={Denny, Paul},
+  booktitle={Proceedings of the 46th ACM Technical Symposium on Computer Science Education},
+  pages={278--283},
+  year={2015},
+  organization={ACM}
+}","Learning & Teaching Strategies, Assessment",CS1,direct,success,yes,quantitative
+"@inproceedings{vihavainen2015benefits,
+  title={Benefits of Self-explanation in Introductory Programming},
+  author={Vihavainen, Arto and Miller, Craig S and Settle, Amber},
+  booktitle={Proceedings of the 46th ACM Technical Symposium on Computer Science Education},
+  pages={284--289},
+  year={2015},
+  organization={ACM}
+}",Learning & Teaching Strategies,CS1,conceptual,success,no,qualitative
+"@inproceedings{mccauley2015recursion,
+  title={Recursion vs. iteration: An empirical study of comprehension revisited},
+  author={McCauley, Renee and Hanks, Brian and Fitzgerald, Sue and Murphy, Laurie},
+  booktitle={Proceedings of the 46th ACM technical symposium on computer science education},
+  pages={350--355},
+  year={2015},
+  organization={ACM}
+}","Aptitute, Comprehension",Undergraduate,direct,mix,no,mixed
+"@inproceedings{morrison2016subgoals,
+  title={Subgoals help students solve Parsons problems},
+  author={Morrison, Briana B and Margulieux, Lauren E and Ericson, Barbara and Guzdial, Mark},
+  booktitle={Proceedings of the 47th ACM Technical Symposium on Computing Science Education},
+  pages={42--47},
+  year={2016},
+  organization={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,mix,yes,quantitative
+"@inproceedings{leinonen2016automatic,
+  title={Automatic inference of programming performance and experience from typing patterns},
+  author={Leinonen, Juho and Longi, Krista and Klami, Arto and Vihavainen, Arto},
+  booktitle={Proceedings of the 47th ACM Technical Symposium on Computing Science Education},
+  pages={132--137},
+  year={2016},
+  organization={ACM}
+}","Learning Behavior, Performance Prediction",Undergraduate,conceptual,mix,no,quantitative
+"@inproceedings{deloatch2016measuring,
+  title={Measuring Effects of Modality on Perceived Test Anxiety for Computer Programming Exams},
+  author={Deloatch, Robert and Bailey, Brian P and Kirlik, Alex},
+  booktitle={Proceedings of the 47th ACM Technical Symposium on Computing Science Education},
+  pages={291--296},
+  year={2016},
+  organization={ACM}
+}",Assessment,Undergraduate,conceptual,mix,no,mixed
+"@inproceedings{Zingaro:2016:ISA:2839509.2844553,
+ title ={Impact of Student Achievement Goals on CS1 Outcomes},
+ author ={Zingaro, Daniel and Porter, Leo},
+ booktitle ={Proceedings of the 47th ACM Technical Symposium on Computing Science Education},
+ pages ={279--296},
+ year ={2016},
+ organization ={ACM},
+} 
+",Learning theory,CS1,conceptual,success,yes,quantitative
+"@inproceedings{Weintrop:2017:BTB:3017680.3017707,
+ title = {From Blocks to Text and Back: Programming Patterns in a Dual-Modality Environment},
+ author = {Weintrop, David and Holbert, Nathan},
+ pages = {633--638},
+ year = {2017},
+ organization = {ACM},
+} 
+","Learning Behavior, Tool",K-12,conceptual,success,no,quantitative
+"@inproceedings{cao2017evaluating,
+  title={Evaluating student learning from collaborative group tests in introductory computing},
+  author={Cao, Yingjun and Porter, Leo},
+  booktitle={Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education},
+  pages={99--104},
+  year={2017},
+  organization={ACM}
+}",Assessment,CS1,conceptual,success,no,quantitative
+"@inproceedings{alvarado2017micro,
+  title={Micro-Classes: A Structure for Improving Student Experience in Large Classes},
+  author={Alvarado, Christine and Minnes, Mia and Porter, Leo},
+  booktitle={Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education},
+  pages={21--26},
+  year={2017},
+  organization={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,success,no,quantitative
+"@inproceedings{litts2017understanding,
+  title={Understanding High School Students' Reading, Remixing, and Writing Codeable Circuits for Electronic Textiles},
+  author={Litts, Breanne K and Kafai, Yasmin B and Lui, Debora and Walker, Justice and Widman, Sari},
+  booktitle={Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education},
+  pages={381--386},
+  year={2017},
+  organization={ACM}
+}",Learning & Teaching Strategies,K-12,conceptual,success,no,mixed
+"@inproceedings{zingaro2018achievement,
+  title={Achievement Goals in CS1: Replication and Extension},
+  author={Zingaro, Daniel and Craig, Michelle and Porter, Leo and Becker, Brett A and Cao, Yingjun and Conrad, Phill and Cukierman, Diana and Hellas, Arto and Loksa, Dastyni and Thota, Neena},
+  booktitle={Proceedings of the 49th ACM Technical Symposium on Computer Science Education},
+  pages={687--692},
+  year={2018},
+  organization={ACM}
+}",Learning theory,CS1,direct,mix,yes,quantitative
+"@inproceedings{wilcox2018quantifying,
+  title={Quantifying the Benefits of Prior Programming Experience in an Introductory Computer Science Course},
+  author={Wilcox, Chris and Lionelle, Albert},
+  booktitle={Proceedings of the 49th ACM Technical Symposium on Computer Science Education},
+  pages={80--85},
+  year={2018},
+  organization={ACM}
+}",Prior knowledge,Undergraduate,conceptual,mix,no,quantitative
+"@inproceedings{aarne2018study,
+  title={A Study of Pair Programming Enjoyment and Attendance using Study Motivation and Strategy Metrics},
+  author={Aarne, Onni and Peltola, Petrus and Leinonen, Juho and Hellas, Arto},
+  booktitle={Proceedings of the 49th ACM Technical Symposium on Computer Science Education},
+  pages={759--764},
+  year={2018},
+  organization={ACM}
+}",Experience,Undergraduate,direct,failure,no,quantitative
+"@inproceedings{bart2018reconciling,
+  title={Reconciling the Promise and Pragmatics of Enhancing Computing Pedagogy with Data Science},
+  author={Bart, Austin Cory and Kafura, Dennis and Shaffer, Clifford A and Tilevich, Eli},
+  booktitle={Proceedings of the 49th ACM Technical Symposium on Computer Science Education},
+  pages={1029--1034},
+  year={2018},
+  organization={ACM}
+}",Experience,Undergraduate,conceptual,success,yes,quantitative
+"@article{dorn2015empirical,
+  title={Empirical validation and application of the computing attitudes survey},
+  author={Dorn, Brian and Elliott Tew, Allison},
+  journal={Computer Science Education},
+  volume={25},
+  number={1},
+  pages={1--36},
+  year={2015},
+  publisher={Taylor \& Francis}
+}",Assessment,Undergraduate,conceptual,success,yes,quantitative
+"@article{payton2015effects,
+  title={The effects of integrating service learning into computer science: an inter-institutional longitudinal study},
+  author={Payton, Jamie and Barnes, Tiffany and Buch, Kim and Rorrer, Audrey and Zuo, Huifang},
+  journal={Computer Science Education},
+  volume={25},
+  number={3},
+  pages={311--324},
+  year={2015},
+  publisher={Taylor \& Francis}
+}","Learning & Teaching Strategies, Retention",Undergraduate,conceptual,success,yes,quantitative
+"@article{stout2017but,
+  title={“But it doesn’t come naturally”: how effort expenditure shapes the benefit of growth mindset on women’s sense of intellectual belonging in computing},
+  author={Stout, Jane G and Blaney, Jennifer M},
+  journal={Computer Science Education},
+  volume={27},
+  number={3-4},
+  pages={215--228},
+  year={2017},
+  publisher={Taylor \& Francis}
+}","Learning theory, Retention",Undergraduate,conceptual,success,no,quantitative
+"@article{nikula2011motivation,
+  title={A motivation guided holistic rehabilitation of the first programming course},
+  author={Nikula, Uolevi and Gotel, Orlena and Kasurinen, Jussi},
+  journal={ACM Transactions on Computing Education (TOCE)},
+  volume={11},
+  number={4},
+  pages={24},
+  year={2011},
+  publisher={ACM}
+}","Course Design, Learning theory, Retention",CS1,direct,success,no,quantitative
+"@article{stefik2013empirical,
+  title={An empirical investigation into programming language syntax},
+  author={Stefik, Andreas and Siebert, Susanna},
+  journal={ACM Transactions on Computing Education (TOCE)},
+  volume={13},
+  number={4},
+  pages={19},
+  year={2013},
+  publisher={ACM}
+}",Programming language,Undergraduate,conceptual,mix,yes,quantitative
+"@article{lee2013can,
+  title={Can peer instruction be effective in upper-division computer science courses?},
+  author={Lee, Cynthia Bailey and Garcia, Saturnino and Porter, Leo},
+  journal={ACM Transactions on Computing Education (TOCE)},
+  volume={13},
+  number={3},
+  pages={12},
+  year={2013},
+  publisher={ACM}
+}",Learning & Teaching Strategies,Undergraduate,conceptual,success,yes,mixed
+"@article{carter2017blending,
+  title={Blending measures of programming and social behavior into predictive models of student achievement in early computing courses},
+  author={Carter, Adam S and Hundhausen, Christopher D and Adesope, Olusola},
+  journal={ACM Transactions on Computing Education (TOCE)},
+  volume={17},
+  number={3},
+  pages={12},
+  year={2017},
+  publisher={ACM}
+}","Performance Prediction, Learning Behavior",Undergraduate,conceptual,success,no,quantitative
