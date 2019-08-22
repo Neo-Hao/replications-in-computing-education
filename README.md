@@ -12,4 +12,4 @@ This repository hosts information of identified replication studies in computing
 
 For more information and detailed discussion on replication in computing education, please refer to the following paper:
 
-* Qiang Hao, David H Smith IV, Naitra Iriumi, Michail Tsikerdekis, Andrew J. Ko. (In Press). A Systematic Investigation of Replications in Computing Education Research. ACM Transactions on Computing Education.
+* Qiang Hao, David H Smith IV, Naitra Iriumi, Michail Tsikerdekis, Andrew J. Ko. (2019). [A Systematic Investigation of Replications in Computing Education Research](https://dl.acm.org/ft_gateway.cfm?id=3345328&type=pdf). ACM Transactions on Computing Education (TOCE), 19(4), 42.
